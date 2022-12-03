@@ -13,15 +13,15 @@
         },
         {
           "name": "dotNet",
-          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolioassets/img/icons/dotnet.svg"
+          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/dotnet.svg"
         },
         {
           "name": "Javascript",
-          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolioassets/img/icons/js.svg"
+          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/js.svg"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolioassets/img/icons/css.svg"
+          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/css.svg"
         },
         {
           "name": "HTML",
@@ -29,7 +29,7 @@
         },
         {
           "name": "Git",
-          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolioassets/img/icons/git.svg"
+          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/git.svg"
         }
       ],
       "softSkills": [
