@@ -1,0 +1,40 @@
+
+.experience {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.experience .title a::after{              
+    content: '';
+    background-image: url('/assets/img/icons/link.svg');     
+    display: inline-block;   
+    background-repeat: no-repeat;
+    background-size: contain;             
+    width: 1rem;
+    height: 1rem;   
+    margin-left: .5rem;    
+}
+
+.experience li {
+    margin-bottom: 1rem;
+}
+
+.experience li .period {
+    display: flex;
+    flex-direction: row;
+    align-items: center;   
+}
+
+.experience li .period::before {  
+    content: '';
+    display: inline-block;  
+    background-image: url('/assets/img/icons/calendar.svg');   
+    background-repeat: no-repeat;
+    background-size: contain;  
+    width: 1rem;
+    height: 1rem;
+    margin-right: .5rem;
+}

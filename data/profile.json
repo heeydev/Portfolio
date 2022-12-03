@@ -1,0 +1,99 @@
+{
+    "name": "Hiago C Bastos",
+    "photo": "https://avatars.githubusercontent.com/u/112535799?v=4",
+    "job": "Estagiário de Desenvolvimento",
+    "location": "Campos dos Goytacazes, RJ",
+    "phone": "(22) 9 997266909",
+    "email": "maciellbranco@hotmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Csharp",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+        },
+        {
+          "name": "dotNet",
+          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/dotnet.svg"
+        },
+        {
+          "name": "Javascript",
+          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/js.svg"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/css.svg"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/git.svg"
+        }
+      ],
+      "softSkills": [
+        "Comprometimento com metas",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização",
+        "Empatia"
+      ]
+    },
+    "languages": [
+      "Português BR (Nativo)",
+      "Inglês (intermediário)"
+    ],
+    "educations": {    
+      "formation": [
+      {          
+         "logo":"https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/pottencialdotnet.webp" ,
+         "certificate":"https://www.dio.me/certificate/9A6C5D1E/share"
+      },
+      {         
+         "logo":"https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/jsdeveloper.webp",
+         "certificate":"https://web.dio.me/track/formacao-javascript-developer"
+      }
+    ],    
+    "degree": [
+      {
+        "name": "Graduação em Engenharia de Software – 2° Período",
+        "period": "Agosto 2022 - Atualmente"
+      },
+      {
+        "name": "Graduação em Engenharia Elétrica(Ênfase em Computação) – 10° Período",
+        "period": "Janeiro 2015 - Atualmente"        
+      }
+    ]
+  },
+    "portfolio": [
+      {
+        "name": "Pokémon API",
+        "url": "https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/Javascript/Pokedex",
+        "github": true
+      },
+      {
+        "name": "Agenda de Contatos",
+        "url": "https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoMVC",
+        "github": true
+      }
+      ,
+      {
+        "name": "API de Pagamentos",
+        "url": "https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/PottencialPaymentAPI",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Estágio de Desenvolvimento - <a href='https://www.arboimoveis.com.br/' target='blank'>Arbo</a>",
+        "period": "Dezembro 2022 - Atualmente",
+        "description": "Auxílio e participação em cerimônias ágeis (scrum) com a equipe. Refinamento técnico de tarefas a serem construídas em conjunto com a equipe. Apoio na implementação de soluções para novas features, melhorias e problemas envolvendo software ERP utilizando como base o PHP."
+      },
+      {
+        "name": "Estágio de Engenharia Elétrica - EMIE²",
+        "period": "Março 2022 - Julho 2022",
+        "description": "Manutenção, organização e administração do laboratório de Eletricidade e Magnetismo de Engenharia Elétrica na instituição de Ensino Superior Estácio de Sá, além de suporte as atividades acadêmicas realizadas pelo supervisor e docente."
+      }
+    ]
+  }
