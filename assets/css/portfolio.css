@@ -26,7 +26,7 @@
 
 .portfolio li h3.github::before {
     content: '';
-    background-image: url('assets/img/icons/github.svg');     
+    background-image: url('/assets/img/icons/github.svg');     
     display: inline-block;       
     background-repeat: no-repeat;
     background-size: contain;  
@@ -37,7 +37,7 @@
 
 .portfolio li h3::after {
     content: '';
-    background-image: url('assets/img/icons/link.svg');     
+    background-image: url('/assets/img/icons/link.svg');     
     display: inline-block;       
     background-repeat: no-repeat;
     background-size: contain;  
