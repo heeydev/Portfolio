@@ -21,7 +21,7 @@
 .languages li::before {  
     content: '';
     display: inline-block;  
-    background-image: url('/assets/img/icons/check.svg');   
+    background-image: url('../img/icons/check.svg');   
     background-repeat: no-repeat;
     background-size: contain;  
     width: 1rem;

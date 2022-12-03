@@ -44,7 +44,7 @@
 .educations li .period::before {  
     content: '';
     display: inline-block;  
-    background-image: url('/assets/img/icons/calendar.svg');   
+    background-image: url('../img/icons/calendar.svg');   
     background-repeat: no-repeat;
     background-size: contain;  
     width: 1rem;
