@@ -19,7 +19,9 @@
 
 .educations .formation ul li img {
     max-width: 90px;
-    margin: 0.5rem;
+    margin: 0;
+    padding: 0;
+    align-items: center;
 }
 
 .educations .degree ul {
