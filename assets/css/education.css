@@ -61,7 +61,7 @@
     margin-right: .5rem;
 }
 
-@media only screen and (max-width: 518px) {
+@media only screen and (max-width: 450px) {
     .educations {
         display: grid;
         grid-template-columns: .5fr;
