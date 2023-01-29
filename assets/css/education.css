@@ -61,13 +61,6 @@
     margin-right: .5rem;
 }
 
-@media only screen and (max-width: 518px) {
-    .educations {
-        display: grid;
-        grid-template-columns: .5fr;
-    }
-}
-
 @media only screen and (min-width: 768px) {
     .educations {
         display: grid;
