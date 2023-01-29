@@ -19,7 +19,7 @@
 
 .educations .formation ul li img {
     max-width: 90px;
-    margin: 0;
+    margin: 0.5rem;
     padding: 0;
     align-items: center;
 }
@@ -61,7 +61,7 @@
     margin-right: .5rem;
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 410px) {
     .educations {
         display: grid;
         grid-template-columns: .5fr;
