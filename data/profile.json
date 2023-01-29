@@ -20,14 +20,6 @@
           "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/laravel-plain-wordmark.svg"
         },
         {
-          "name": "Csharp",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
-        },
-        {
-          "name": "dotNet",
-          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/dotnet.svg"
-        },
-        {
           "name": "Javascript",
           "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/js.svg"
         },
@@ -38,6 +30,14 @@
         {
           "name": "HTML",
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "Csharp",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+        },
+        {
+          "name": "dotNet",
+          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/dotnet.svg"
         },
         {
           "name": "Git",
