@@ -8,6 +8,18 @@
     "skills": {
       "hardSkills": [
         {
+          "name": "PHP",
+          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/php.png"
+        },
+        {
+          "name": "Zend",
+          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/zend-framework.svg"
+        },
+        {
+          "name": "Laravel",
+          "logo": "https://raw.githubusercontent.com/heeydev/Portfolio/main/assets/img/icons/laravel-plain-wordmark.svg"
+        },
+        {
           "name": "Csharp",
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
         },
